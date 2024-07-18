@@ -1,0 +1,34 @@
+.home-container {
+  height: 87vh;
+}
+.lighthomeimage-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.darkhomeimage-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  color: #ffffff;
+}
+.home-image {
+  width: 200px;
+}
+.lighttitle-style {
+  font-family: 'Roboto';
+  font-size: 35px;
+  font-weight: 700;
+  color: #000000;
+}
+.darktitle-style {
+  font-family: 'Roboto';
+  font-size: 35px;
+  font-weight: 700;
+  color: #ffffff;
+}

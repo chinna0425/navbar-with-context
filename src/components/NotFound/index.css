@@ -1,0 +1,48 @@
+.notfound-container {
+  height: 87vh;
+}
+.lightnotfoundimage-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.darknotfoundimage-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+}
+.notfound-image {
+  width: 300px;
+}
+.darknotfoundtitle-style {
+  font-family: 'Roboto';
+  font-size: 35px;
+  font-weight: 500;
+  color: #ffffff;
+}
+.lightnotfoundtitle-style {
+  font-family: 'Roboto';
+  font-size: 35px;
+  font-weight: 500;
+  color: #000000;
+}
+.notfound-description {
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  text-align: center;
+
+  color: #64748b;
+}
+.lightnotfound-description {
+  font-size: 20px;
+  font-weight: 500;
+  text-align: center;
+  font-family: 'Roboto';
+  color: #64748b;
+}
